@@ -1,0 +1,10 @@
+9
+inbox
+copyto 0
+inbox
+sub 0
+jumpifzero 7
+jump 1
+copyfrom 0
+outbox
+jump 1
